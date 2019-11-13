@@ -21,6 +21,7 @@ public class ArrayListExample {
 	      System.out.println("Please enter book price");
 	      int price = input.nextInt();
 	      prices.add (price);
+// Test change
 		}   
 		
 	}
